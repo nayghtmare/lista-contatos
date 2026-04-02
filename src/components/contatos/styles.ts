@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components'
+import styled from 'styled-components'
 
 export const ContainerCard = styled.div`
   background-color: #3a3a3b;

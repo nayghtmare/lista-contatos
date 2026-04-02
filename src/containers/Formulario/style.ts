@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components'
+import styled from 'styled-components'
 export const TituloNovo = styled.h1`
   display: block;
   margin-bottom: 40px;
